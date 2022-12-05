@@ -4,12 +4,16 @@ I created this project to build a portfolio of future projects.
 
 This will help me show my projects to potential companies and recruiters and thus have more chances of finding a job.
 
-This project has been created from the beginning from a photo. For this I have used HTML semantic elements and different css elements as well as css flex and grid.
+This project has been created from the beginning from a photo (see below). 
+
+![screenshot project](images/screenShot.png)
+
+ I have used HTML semantic elements and different css elements as well as css flex and grid.
 
 I learned grid areas, flexbox and responsive websites.
 
 ##Usage
-![screenshot project](images/screenShot.png)
+
 
 ##Credtis
 
