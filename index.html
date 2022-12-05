@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <!-- main logo / nav -->
+  <!-- main name / nav -->
    <header>
     
     <h1>Antonio Algaba</h1>
@@ -23,14 +23,15 @@
   
   </header>
 
-  <!-- hero banner -->
+  <!-- banner -->
   <section class="title">
     <img class="photo" src="./images/IMG_20220429_095735.jpg" alt="Antonio Algaba">
     <div>
       <h2>WEBS DONE RIGHT!</h2>
     </section>
   </div>
-  <main class="page-wrapper">
+  <main>
+<!--All .page-section are a grid-->   
     <!-- about me -->
     <section class="page-section" id="about">
       <h2>About Me</h2>
@@ -53,28 +54,23 @@
     <!-- portfolio container -->
     <section class="page-section" id="work">
       <h2>Work</h2>
+    <!--grid are inside .page-section-->
       <div class="projects">
-        <div id="port1" class="gridArea">
-          <a href="https://antonioalgaba.github.io/Challenge-1-Horiseon/" target="_blank"><div class="heading">Oriseon</div></a>
-        </div>
-        <div id="port2" class="gridArea">
-          <a href="https://antonioalgaba.github.io/prework-study-guide/" target="_blank"><div class="heading">Prework study guide</div></a>
-        </div>
-        <div id="port3" class="gridArea">
-          <a href="./text/commingSoon.txt" target="_blank"><div class="heading">Project 3</div></a>
-        </div>
-        <div  id="port4" class="gridArea">
-          <a href="./text/commingSoon.txt" target="_blank"><div class="heading">Project 4</div></a>
-        </div>
-        <div  id="port5" class="gridArea">
-          <a href="./text/commingSoon.txt" target="_blank"><div class="heading">Project 5</div></a>
-        </div>
-        
+        <a href="https://antonioalgaba.github.io/Challenge-1-Horiseon/" target="_blank" id="port1" class="gridArea">
+          <div class="heading">Oriseon</div></a>
+        <a href="https://antonioalgaba.github.io/prework-study-guide/" target="_blank" id="port2" class="gridArea">
+          <div class="heading">Prework study guide</div></a>
+        <a href="./text/commingSoon.txt" target="_blank" id="port3" class="gridArea">
+          <div class="heading">Project 3</div></a>
+        <a href="./text/commingSoon.txt" target="_blank" id="port4" class="gridArea">
+          <div class="heading">Project 4</div></a>
+        <a href="./text/commingSoon.txt" target="_blank" id="port5" class="gridArea">
+          <div class="heading">Project 5</div></a>
       </div>
     </section>
 
     <!-- contact -->
-    <section class="page-section contact" id="contact">
+    <section class="page-section" id="contact">
       <h2>Contact Me</h2>
        <ul class="contact-list">
         <li class="list-link"><img class="icon" src="./images/@.png"><a href="mailto:antonioalgabaosuna@gmail.com">antonioalgabaosuna@gmail.com</a></li>
@@ -83,6 +79,9 @@
        </ul>
     </section>
   </main>
+  <footer>
+    &copy; Copyright 2022. Antonio Algaba 
+  </footer>
   
 </body>
 
