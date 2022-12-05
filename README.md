@@ -14,6 +14,12 @@ I learned grid areas, flexbox and responsive websites.
 
 ##Usage
 
+web screenshot
+
+![web screenshot 1](images/pagescreenshot1.png)
+![web screenshot 2](images/pagescreeshot2.png)
+
+Deployed application link: https://antonioalgaba.github.io/My-portfolio-page/
 
 ##Credtis
 
