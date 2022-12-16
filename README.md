@@ -12,7 +12,7 @@ This project has been created from the beginning from a photo (see below).
 
 I learned grid areas, flexbox and responsive websites.
 
-##Usage
+## Usage
 
 web screenshot
 
@@ -21,7 +21,7 @@ web screenshot
 
 Deployed application link: https://antonioalgaba.github.io/My-portfolio-page/
 
-##Credtis
+## Credtis
 
 I used the following tutorialas:
 
